@@ -1,7 +1,7 @@
 ## Install
 `git clone https://github.com/randymcbride/react-mobx-starter.git my-app-name`
 
-`cd react-mobx-starter`
+`cd my-app-name`
 
 `yarn install` or `npm install`
 
