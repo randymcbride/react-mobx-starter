@@ -1,9 +1,17 @@
 ## Install
+Clone this repo and then push it to your own
+
 `git clone https://github.com/randymcbride/react-mobx-starter.git my-app-name`
 
 `cd my-app-name`
 
 `yarn install` or `npm install`
+
+`git remote rename origin upstream`
+
+`git remote add origin URL_TO_YOUR_REPO`
+
+`git push origin master`
 
 ## Run Dev Server
 `yarn run server`
