@@ -1,5 +1,5 @@
 ## Install
-`git clone https://github.com/randymcbride/react-mobx-starter.git`
+`git clone https://github.com/randymcbride/react-mobx-starter.git my-app-name`
 
 `cd react-mobx-starter`
 
